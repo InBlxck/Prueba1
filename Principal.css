@@ -1,0 +1,63 @@
+/* Estilos para el navbar */
+.fondonav {
+    background-color: #00bfff; /* Color de fondo celeste */
+    border-radius: 0; /* Bordes redondeados */
+    padding: 10px;
+}
+
+/* Estilos para los elementos del navbar */
+.letranav {
+    color: #ffffff; /* Color del texto */
+    text-decoration: none; /* Quitar subrayado del enlace */
+    transition: color 0.3s; /* Transición suave para el color del texto */
+    margin-right: 20px; /* Margen derecho entre elementos */
+}
+
+/* Estilos para el logo del navbar */
+.icono {
+    max-height: 40px; /* Altura máxima del logo */
+}
+
+/* Estilos para el carrusel */
+#carouselExampleIndicators {
+    margin-top: 50px; /* Espaciado superior */
+    max-width: 1000px; /* Ancho máximo */
+    margin-left: auto; /* Centrar horizontalmente */
+    margin-right: auto; /* Centrar horizontalmente */
+}
+
+/* Estilos para las imágenes dentro del carrusel */
+.carousel-inner img {
+    max-height: 2000px; /* Altura máxima de las imágenes */
+    object-fit: cover; /* Ajustar la imagen al contenedor */
+}
+
+footer {
+
+    background-color: #00bfff; /* Color de fondo azul */
+    color: white; /* Color del texto blanco */
+    padding: 40px 20px; /* Espaciado interior */
+    text-align: center; /* Texto centrado */
+}
+.info-box {
+    background-color: #f8f9fa; /* Color de fondo del cuadro */
+    color: #212529; /* Color del texto negro */
+    padding: 20px; /* Espacio interior */
+    border: 2px solid #007bff; /* Borde sólido azul */
+    border-radius: 10px; /* Borde redondeado */
+}
+
+.container-footer {
+    padding-top: 20px; /* Espacio arriba del footer */
+    background-color: #f8f9fa; /* Color de fondo del contenedor */
+}
+.footer2 {
+    background-color: #878286; /* Color de fondo del pie de página */
+    color: #fff; /* Color del texto del pie de página */
+    padding: 20px 0;
+    text-align: center;
+    width: 100%; /* Ancho completo */
+    bottom: 0; /* Pegado al fondo */
+}
+
+

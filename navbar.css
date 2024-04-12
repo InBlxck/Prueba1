@@ -1,0 +1,28 @@
+.fondonav {
+    background-color: #00bfff;
+    border-radius: 0;
+    padding: 10px;
+}
+
+.letranav {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s;
+    margin-right: 20px;
+    font-family: 'Arial', sans-serif; /* Cambia la fuente a Arial */
+    font-size: 18px; /* Tamaño de la fuente */
+    font-weight: bold; /* Fuente en negrita */
+}
+
+.icono {
+    max-height: 40px;
+}
+
+.navbaropciones {
+    width: 100%;
+    justify-content: center;
+}
+
+.nav-item:hover .nav-link {
+    color: #ffcc00; /* Cambia el color al pasar el mouse */
+}
